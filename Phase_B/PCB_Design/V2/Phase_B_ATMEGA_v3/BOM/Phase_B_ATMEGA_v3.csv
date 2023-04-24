@@ -1,6 +1,6 @@
 "Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"LS1";"Buzzer_12x9.5RM7.6";1;"Speaker";;;
-2;"H5,H3,H2,H4,H1";"MountingHole_2.2mm_M2";5;"MountingHole";;;
+1;"H4,H4,H5,H2,H1";"MountingHole_2.2mm_M2";5;"MountingHole";;;
+2;"LS1";"Buzzer_12x9.5RM7.6";1;"Speaker";;;
 3;"R14,R15";"R_0603_1608Metric";2;"22";;;
 4;"R13,R17";"R_0603_1608Metric";2;"10k";;;
 5;"D3,D1,D2";"LED_0805_2012Metric";3;"LED";;;
