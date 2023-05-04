@@ -63,7 +63,6 @@ void serialTask(void *parameters) { //Buffer and receive Serial Data
   }
 }
 
-
 //Determining whether to turn on a LED depending on the data received
 void ledTask(void *parameters) {
 
