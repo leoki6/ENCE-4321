@@ -72,6 +72,7 @@ void ledTask(void *parameters) {
   while(1) {
     //serialTask will set this to true if a message has been received in its entirety
     if(gProcessDataFlag) {
+      
       gProcessDataFlag = false; //flag reset
       
       //compares first three chars with "STR"
