@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J3,J2";"PinSocket_2x50_P1.27mm_Horizontal";2;"Conn_01x40_Socket";;;
+2;"R1";"R_0201_0603Metric";1;"R";;;
+3;"10K1";"Potentiometer_ACP_CA6-VSMD_Vertical";1;"R_Potentiometer";;;
+4;"H4,H3,H2,H1";"MountingHole_2.1mm";4;"MountingHole";;;
+5;"U1";"LQFP-48_7x7mm_P0.5mm";1;"STM32C031C4Tx";;;
